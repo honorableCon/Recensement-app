@@ -1,0 +1,21 @@
+- nom de l'entrprise
+- region
+- departement
+- commune
+- quartier/village
+- siege social
+- nom et prenom du repondant
+- Fonction du répondant
+- numero du repondant
+- le couriel du repondant
+- Quelle est la date de création de votre entreprise ?
+- Quel est le régime juridique de votre entreprise ?
+- registre de commerce
+- NINEA
+- Dans quels domaines se situent les services de votre entreprise ?
+- Page Web
+- Quel est le nombre d'employées?
+- Ont-ils des contrats formel?
+- Existe t-il un organigramme claire et respecté ?
+- Existe t-il un dispositif de formation du personnel ? 
+- Votre entreprise prend-elle en compte les quotisations sociales et patronale ?
